@@ -19,6 +19,7 @@ This project was created as part of my **data analytics portfolio** to demonstra
 * CSV Dataset
 
 ## 📊 Dashboard Features
+<img width="528" height="432" alt="image" src="https://github.com/user-attachments/assets/79795cae-e098-4270-9e38-af6c88481f32" />
 
 The dashboard includes:
 
@@ -61,10 +62,6 @@ It also helped me improve my skills in:
 * Dashboard design
 * Data visualization
 * Presenting insights
-
-* Dashboard
-* <img width="528" height="432" alt="image" src="https://github.com/user-attachments/assets/96117b0c-fc01-4391-868f-b11bec12292e" />
-
 
 ## 👤 Author
 
