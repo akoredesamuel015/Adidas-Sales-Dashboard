@@ -1,39 +1,79 @@
-# Adidas Sales Dashboard
+# Adidas Sales Dashboard 📊
 
-## 📊 Project Overview
+## 📌 Project Overview
 
-An **Adidas Sales Dashboard built entirely with Microsoft Excel** to analyze sales performance and generate meaningful business insights from raw sales data.
+This project is an **Adidas Sales Dashboard** created to analyse sales performance using **Microsoft Excel**.
 
-## 🎯 Objectives
+The dashboard was built to turn raw Adidas sales data into simple and useful visual insights. It helps show how sales, revenue, profit, products, and regions are performing.
 
-* Analyze total sales, revenue, profit, and units sold.
-* Identify top-performing products and retailers.
-* Compare sales performance across regions.
-* Track sales trends over time.
-* Present key insights through an interactive dashboard.
+This project was created as part of my **data analytics portfolio** to demonstrate my ability to work with Excel, analyse data, and build interactive dashboards.
 
 ## 🛠️ Tools Used
 
-* **Microsoft Excel**
-* PivotTables
+* Microsoft Excel
+* Excel Pivot Tables
+* Pivot Charts
 * Excel Formulas
-* Charts & Visualizations
-* Data Cleaning & Transformation
+* Data Cleaning
+* Data Visualization
+* CSV Dataset
 
-## 📈 Key Dashboard Features
+## 📊 Dashboard Features
 
-* Sales and revenue analysis
-* Product performance
-* Regional performance
-* Retailer analysis
-* Monthly sales trends
-* Actual vs. projected performance
+The dashboard includes:
+
+* Total Sales
+* Total Revenue
+* Total Profit
+* Units Sold
+* Sales by Region
+* Sales by Product
+* Monthly Sales Trends
+* Actual vs Projected Target
+* Key Sales Performance Insights
 
 ## 📁 Project Files
 
 * `Adidas Sales Dashboard.xlsx` — Main Excel dashboard
-* `Adidas Sales Data.csv` — Raw dataset
+* `Adidas Sales Data.csv` — Raw dataset used for the analysis
 
-## 💡 Project Outcome
+## 🔎 What I Analysed
 
-The dashboard transforms raw Adidas sales data into an easy-to-understand visual report that helps identify sales patterns, performance trends, and areas of business growth.
+The project focuses on understanding:
+
+* Which products generate the most sales
+* How sales change over time
+* Which regions perform better
+* Revenue and profit performance
+* Actual sales compared with projected targets
+* General sales trends and patterns
+
+## 📈 Project Goal
+
+The main goal of this project was to practise using **Excel for real-world data analysis** and create a dashboard that makes sales information easier to understand.
+
+It also helped me improve my skills in:
+
+* Data cleaning
+* Data organisation
+* Pivot tables
+* Data analysis
+* Dashboard design
+* Data visualization
+* Presenting insights
+
+* Dashboard
+* <img width="528" height="432" alt="image" src="https://github.com/user-attachments/assets/96117b0c-fc01-4391-868f-b11bec12292e" />
+
+
+## 👤 Author
+
+**Olalekan Akorede**
+
+Aspiring Data Analyst | Excel | Power BI | SQL
+
+📍 Lagos, Nigeria
+
+---
+
+⭐ This is a beginner-friendly data analytics project created to demonstrate practical Excel and dashboard-building skills.
